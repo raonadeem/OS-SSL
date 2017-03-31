@@ -13,4 +13,4 @@ Steps:
 
     2)Run the script and it will generate certificates in /home/stack/ssl_cert
 
-	./OS-SSL
+	./enable_ssl.sh
